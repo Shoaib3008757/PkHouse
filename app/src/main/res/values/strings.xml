@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">PK.HOUSE</string>
+    <string name="tv_submit_propterty">SUBMIT YOUR PROPERTY</string>
+    <string name="tv_pk_estate">PK.HOUSE</string>
+    <string name="tv_about_us">About Us</string>
+
+
+    <array name="test_list">
+        <item>First 1</item>
+        <item>First 2</item>
+        <item>First 3</item>
+        <item>First 4</item>
+        <item>First 5</item>
+        <item>First 6</item>
+    </array>
+
+
+    <array name="chose_a_country">
+        <item>Chose a Country</item>
+        <item>Pakistan</item>
+        <item>UAE</item>
+        <item>Oman</item>
+    </array>
+
+    <array name="chose_a_city_uae">
+        <item>All Cities</item>
+        <item>Abu Dhabi</item>
+        <item>Fujairah</item>
+        <item>Ajman</item>
+        <item>Sharjah</item>
+        <item>Dubai</item>
+        <item>Ras al-Khaimah</item>
+        <item>Umm al-Quwain</item>
+    </array>
+
+    <array name="chose_a_city_oman">
+        <item>All Cities</item>
+        <item>Muscat</item>
+        <item>Salalah</item>
+        <item>Sohar</item>
+        <item>Saham</item>
+        <item>Rustak</item>
+        <item>Saham</item>
+        <item>Rustak</item>
+        <item>Seeb</item>
+        <item>Ibri</item>
+    </array>
+
+
+    <array name="chose_a_city">
+        <item>All Cities</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+        <item>Karachi</item>
+        <item>Abbottabad</item>
+        <item>Adezai</item>
+        <item>Ahmadpur East</item>
+        <item>Ahmed Nager Chatha</item>
+        <item>Alipur</item>
+        <item>Alpuri</item>
+        <item>Arifwala</item>
+        <item>Attock</item>
+        <item>Ayubia</item>
+        <item>Badin</item>
+        <item>Bahawalnagar</item>
+        <item>Bahawalpur</item>
+        <item>Banda Daud Shah</item>
+        <item>Bannu</item>
+        <item>Batkhela</item>
+        <item>Battagram</item>
+        <item>Bhakkar</item>
+        <item>Bhalwal</item>
+        <item>Birote</item>
+        <item>Burewala</item>
+        <item>Chakdara</item>
+        <item>Chaman</item>
+        <item>Charsadda</item>
+        <item>>Chichawatni</item>
+        <item>Chillianwala</item>
+        <item>Chiniot</item>
+        <item>Chishtian</item>
+        <item>Chitral</item>
+        <item>Dadu</item>
+        <item>Daggar</item>
+        <item>Dargai</item>
+        <item>Darya Khan</item>
+        <item>Daska</item>
+        <item>Dera Allah Yar</item>
+        <item>Dera Ghazi Khan</item>
+        <item>Dera Ismail Khan</item>
+        <item>Dera Murad Jamali</item>
+        <item>Dhaular</item>
+        <item>Digri</item>
+        <item>Dina</item>
+        <item>Dinga</item>
+        <item>Dipalpur</item>
+        <item>Diplo</item>
+        <item>Dir</item>
+        <item>Dokri</item>
+        <item>Drosh</item>
+        <item>Faisalabad</item>
+        <item>Fateh Jang</item>
+        <item>Ghakhar Mandi</item>
+        <item>Ghotki</item>
+        <item>Gilgit</item>
+        <item>Gojra</item>
+        <item>Gujar Khan</item>
+        <item>Gujranwala">Gujranwala</item>
+        <item>Gujrat</item>
+        <item>Gwadar</item>
+        <item>Haala</item>
+        <item>Hafizabad</item>
+        <item>Hangu</item>
+        <item>Haripur</item>
+        <item>Haroonabad</item>
+        <item>Hasilpur</item>
+        <item>Haveli Lakha</item>
+        <item>Hub</item>
+        <item>Hyderabad</item>
+
+        <item>Islamkot</item>
+        <item>Jacobabad</item>
+        <item>Jalalpur Jattan</item>
+        <item>Jampur</item>
+        <item>Jamshoro</item>
+        <item>Jaranwala</item>
+        <item>Jauharabad</item>
+        <item>Jhang</item>
+        <item>Jhelum</item>
+        <item>Jungshahi</item>
+        <item>Kalabagh</item>
+        <item>Kalat</item>
+        <item>Kamalia</item>
+        <item>Kamoke</item>
+        <item>Kandiaro</item>
+        <item>Karak</item>
+        <item>Karor Lal Esan</item>
+        <item>Kashmore</item>
+        <item>Kasur</item>
+        <item>Keti Bandar</item>
+        <item>Khairpur</item>
+        <item>Khanewal</item>
+        <item>Khanpur</item>
+        <item>Kharan</item>
+        <item>Kharian</item>
+        <item>Khushab</item>
+        <item>Khuzdar</item>
+        <item>Kohat</item>
+        <item>Kot Adu</item>
+        <item>Kotri</item>
+        <item>Lakki Marwat</item>
+        <item>Lalamusa</item>
+        <item>Larkana</item>
+        <item>Latamber</item>
+        <item>Layyah</item>
+        <item>Liaquat Pur</item>
+        <item>Lodhran</item>
+        <item>Loralai</item>
+        <item>Madyan</item>
+        <item>Mailsi</item>
+        <item>Mamoori</item>
+        <item>Mandi Bahauddin</item>
+        <item>Mansehra</item>
+        <item>Mardan</item>
+        <item>Mastuj</item>
+        <item>Mastung</item>
+        <item>Matiari</item>
+        <item>Mehar</item>
+        <item>Mehrabpur</item>
+        <item>Mian Channu</item>
+        <item>Mianwali</item>
+        <item>Mingora</item>
+        <item>Mirpur Khas</item>
+        <item>Mithani</item>
+        <item>Mithi</item>
+        <item>Moro</item>
+        <item>Multan</item>
+        <item>Muridke</item>
+        <item>Murree</item>
+        <item>Muzaffarabad</item>
+        <item>Muzaffargarh</item>
+        <item>Nagarparkar</item>
+        <item>Narowal</item>
+        <item>Naudero</item>
+        <item>Naushahro Feroze</item>
+        <item>Naushara</item>
+        <item>Nawabshah</item>
+        <item>Nazimabad</item>
+        <item>Nowshera</item>
+        <item>Nushki</item>
+        <item>Okara</item>
+        <item>Paharpur</item>
+        <item>Pakpattan</item>
+        <item>Pasni</item>
+        <item>Pattoki</item>
+        <item>Peshawar</item>
+        <item>Pir Mahal</item>
+        <item>Qila Didar Singh</item>
+        <item>Quetta</item>
+        <item>Rabwah</item>
+        <item>Rahim Yar Khan</item>
+        <item>Raiwind</item>
+        <item>Rajanpur</item>
+        <item>Rajo Khanani</item>
+        <item>Ranipur</item>
+        <item>Ratodero</item>
+        <item>Rawalpindi</item>
+        <item>Renala Khurd</item>
+        <item>Rohri</item>
+        <item>Sadiqabad</item>
+        <item>Safdarabad</item>
+        <item>Sahiwal</item>
+        <item>Saidu Sharif</item>
+        <item>Sakrand</item>
+        <item>Sanghar</item>
+        <item>Sangla Hill</item>
+        <item>Sarai Alamgir</item>
+        <item>Sargodha</item>
+        <item>Shahbandar</item>
+        <item>Shahdadkot</item>
+        <item>Shahdadpur</item>
+        <item>Shahpur Chakar</item>
+        <item>Shakargarh</item>
+        <item>Sheikhupura</item>
+        <item>Shikarpaur</item>
+        <item>Sialkot</item>
+        <item>Sibi</item>
+        <item>Sohawa</item>
+        <item>Soianwala</item>
+        <item>Sukkur</item>
+        <item>Swabi</item>
+        <item>Swat</item>
+        <item>Talagang</item>
+        <item>Tando Adam Khan</item>
+        <item>Tando Allahyar</item>
+        <item>Tangi</item>
+        <item>Tank</item>
+        <item>Taxila</item>
+        <item>Thall</item>
+        <item>Thatta</item>
+        <item>Timergara</item>
+        <item>Toba Tek Singh</item>
+        <item>Tordher</item>
+        <item>Turbat</item>
+        <item>Umerkot</item>
+        <item>Usta Mohammad</item>
+        <item>Vehari</item>
+        <item>Wah Cantonment</item>
+        <item>Warah</item>
+        <item>Wazirabad</item>
+        <item>Zhob</item>
+        <item>Other</item>
+
+    </array>
+
+
+
+
+
+
+    <array name="property_type">
+        <item>Property Type</item>
+        <item>Apartment</item>
+        <item>House</item>
+        <item>Office</item>
+        <item>Villa</item>
+        <item>Resort</item>
+    </array>
+
+
+    <array name="property_status">
+        <item>Property Status</item>
+        <item>For Rent</item>
+        <item>For Sale</item>
+    </array>
+
+    <array name="property_bedrooms">
+        <item>Bedrooms</item>
+        <item>1 Bedrooms</item>
+        <item>2 Bedrooms</item>
+        <item>3 Bedrooms</item>
+    </array>
+
+    <array name="property_bathrooms">
+        <item>Bathrooms</item>
+        <item>1 Bathrooms</item>
+        <item>2 Bathrooms</item>
+        <item>3 Bathrooms</item>
+    </array>
+
+
+    <array name="min_price">
+        <item>Min Price</item>
+        <item>15,000$</item>
+        <item>15,000$</item>
+        <item>17,000$</item>
+    </array>
+
+    <array name="max_price">
+        <item>Max Price</item>
+        <item>20,000$</item>
+        <item>25,000$</item>
+        <item>30,000$</item>
+    </array>
+
+
+    <array name="property_for">
+        <item>Property For</item>
+        <item>For Rent</item>
+        <item>For Sale</item>
+    </array>
+
+
+    <array name="property_type_submit">
+        <item>Property Type</item>
+        <item>House</item>
+        <item>Flat</item>
+        <item>Land</item>
+        <item>Plot</item>
+        <item>Commercial</item>
+        <item>Shop</item>
+    </array>
+
+    <array name="land_area">
+        <item>Land Area</item>
+        <item>Marla</item>
+        <item>Kanal</item>
+        <item>Marabba</item>
+        <item>ACRE</item>
+        <item>Sq.Ft</item>
+
+
+    </array>
+
+
+    <array name="property_avail">
+        <item>Property Avail</item>
+        <item>Available</item>
+        <item>Sold</item>
+
+    </array>
+
+
+</resources>

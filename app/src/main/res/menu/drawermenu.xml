@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="">
+        <menu>
+            <item
+                android:title=""
+
+
+                android:id="@+id/nav_item_name"/>
+            <item
+                android:title="Home"
+
+                android:icon="@drawable/home_image_view"
+                android:id="@+id/nav_item_home"/>
+            <item
+                android:title="Franchise"
+                android:icon="@drawable/franchise"
+                android:id="@+id/nav_item_franchise"/>
+
+            <item
+                android:title="About Us"
+                android:icon="@drawable/about_us"
+                android:id="@+id/nav_item_about"/>
+
+            <item
+                android:title="Buyer"
+                android:icon="@drawable/person_image"
+                android:id="@+id/nav_item_buyer"/>
+
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Login/Register"
+            android:icon="@drawable/login_logout"
+            android:id="@+id/nav_item_login_registe"/>
+
+        <item android:title="Contact Us"
+            android:icon="@drawable/contact_us"
+            android:id="@+id/nav_item_contact_us"/>
+
+        <item android:title=""
+            android:id="@+id/nav_item_chose_plain"/>
+
+        <item android:title=""
+            android:id="@+id/nav_item_view_your_properties"/>
+        
+
+    </group>
+</menu>

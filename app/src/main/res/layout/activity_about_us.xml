@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about_us"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs"
+    android:background="@drawable/backgroud_screen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="6dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:text="Start a Peacefull Life With"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="8dp"
+                    android:text="PK.estate"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="22dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:text="The PK. estate Company is the largest, most impressive, creative and forward-thinking real estate company in Pakistan. At the core of your business philosophy is a commitment to extraordinary service, honesty, and clear communication.
+In brief, we are NOT your real estate company. You'll feel the difference as soon as you walk into our offices, speak with us on the telephone, or meet us in person. Our experienced broker agents, qualified agents, and a lot of the time support staff are friendly, knowledgeable, and very hard-working. All of us incorporate the best in good old-fashioned customer support with the most recent and best in technology and web-affiliated marketing."/>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/circular_dot"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/dotb1"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/text1bellowdot1"
+                            android:text="OUR MISSION"
+                            android:textColor="@color/colorWhite"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:layout_below="@+id/dotb1"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/detailtext"
+                            android:text="Our mission is to provide the highest level of service to our clients to help them when buying or selling. We aim to assist you in making the best real estate decision possible based on your needs."
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/colorWhite"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_below="@+id/text1bellowdot1"/>
+
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/circular_dot"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/dotb2"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/text1bellowdot2"
+                            android:text="OUR AGENTS"
+                            android:textColor="@color/colorWhite"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:layout_below="@+id/dotb2"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/detailtext2"
+                            android:text="Our Agents are all long time Whistler locals and are experts in both the area and the local real estate market. Click here to view a full list of our agents."
+                            android:textStyle="bold"
+                            android:textColor="@color/colorWhite"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_below="@+id/text1bellowdot2"/>
+
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/circular_dot"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/dotb3"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/text1bellowdot3"
+                            android:text="OUR VISION"
+                            android:textColor="@color/colorWhite"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:layout_below="@+id/dotb3"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/detailtext3"
+                            android:text="Pk.estate is a regional, full-service real estate development and management company. Our objective is to be a profitable leader in commercial, retail and residential real estate."
+                            android:textStyle="bold"
+                            android:textColor="@color/colorWhite"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_below="@+id/text1bellowdot3"/>
+
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/circular_dot"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/dotb4"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:id="@+id/text1bellowdot4"
+                            android:text="VALUES"
+                            android:textColor="@color/colorWhite"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:layout_below="@+id/dotb4"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/detailtext4"
+                            android:text="We always do what is right, fair, and ethical. We share appropriate information in an honest and open manner. We are positive, enthusiastic, and have a vibrant spirit."
+                            android:textStyle="bold"
+                            android:textColor="@color/colorWhite"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_below="@+id/text1bellowdot4"/>
+
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </ScrollView></LinearLayout>
+
+</RelativeLayout>

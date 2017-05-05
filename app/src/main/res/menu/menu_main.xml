@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_nearest_location"
+        android:title="Search Nearest Location" />
+    <item
+        android:id="@+id/maintenance_history"
+        android:title="Maintenace History" />
+    <item
+        android:id="@+id/about_company"
+        android:title="About Company"/>
+
+</menu>
